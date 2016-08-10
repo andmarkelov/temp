@@ -1,8 +1,8 @@
 {
   "menu": [
 	{
-		text: "Наша страница ВКонтакте",
-		link: "https://vk.com/premiumrussian"
+		"text": "Наша страница ВКонтакте",
+		"link": "https://vk.com/premiumrussian"
 	}
   ],
   "pages": [
